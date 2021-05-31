@@ -1,7 +1,6 @@
 # WindowsEventLogsBypass_Csharp
 
-主要是没有找到其他人做所以自己写了一个
-
+Blog link: working on it
 * Bypass **windows eventlogs** & **Sysmon,only** tested in win10_x64.
 
 * Only for red team purpose , and you need to change the codes, if u use it for pentest.
