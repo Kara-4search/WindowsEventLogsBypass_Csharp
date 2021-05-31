@@ -3,10 +3,10 @@
 Blog link: working on it
 * Bypass **windows eventlogs** & **Sysmon,only** tested in win10_x64.
 
-* Only for red team purpose , and you need to change the codes, if u use it for pentest.
+* Only for red team purpose, and you need to change the codes if u use it for pentest.
 * You need **administrator privilege** to run it.
 * You also need **administrator privilege** to debug or test the code(In VS).
-* Feel free to make any issues or advices.
+* Feel free to make any issues or advice.
 
 
 
