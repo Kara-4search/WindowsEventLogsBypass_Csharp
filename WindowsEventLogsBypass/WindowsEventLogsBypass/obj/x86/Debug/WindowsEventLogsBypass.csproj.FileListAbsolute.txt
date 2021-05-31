@@ -1,0 +1,2 @@
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\obj\x86\Debug\WindowsEventLogsBypass.csprojAssemblyReference.cache
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\obj\x86\Debug\WindowsEventLogsBypass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\bin\x64\Release\WindowsEventLogsBypass.exe.config
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\bin\x64\Release\WindowsEventLogsBypass.exe
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\bin\x64\Release\WindowsEventLogsBypass.pdb
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\obj\x64\Release\WindowsEventLogsBypass.csprojAssemblyReference.cache
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\obj\x64\Release\WindowsEventLogsBypass.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\obj\x64\Release\WindowsEventLogsBypass.exe
+C:\Project\Projects\Project_WindowsEventLogsBypass\WindowsEventLogsBypass\WindowsEventLogsBypass\obj\x64\Release\WindowsEventLogsBypass.pdb
