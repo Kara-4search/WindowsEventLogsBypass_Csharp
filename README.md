@@ -24,7 +24,7 @@ Process Explorer
 
 1. Remove the “System.Threading.Thread.Sleep”  in main function，the “System.Threading.Thread.Sleep” is for debugging purpose.
 
-   ​	![avatar](https://raw.githubusercontent.com/Kara-4search/tempPic/main/WindowsEventLogsBypass_Csharp_sleep.pngg)
+   ​	![avatar](https://raw.githubusercontent.com/Kara-4search/tempPic/main/WindowsEventLogsBypass_Csharp_sleep.png)
 
 2. Run it with **administrator privilege**, for that you gonna need to bypass UAC first.(which I will update a bypass UAC project soon).
 
