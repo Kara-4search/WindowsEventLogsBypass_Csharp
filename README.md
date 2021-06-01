@@ -1,7 +1,7 @@
 # WindowsEventLogsBypass_Csharp
 
 Blog link: working on it
-* Bypass **windows eventlogs** & **Sysmon,only** tested in win10_x64.
+* Bypass **windows eventlogs** & **Sysmon**,only tested in win10_x64.
 
 * Only for red team purpose, and you need to change the codes if u use it for pentest.
 * You need **administrator privilege** to run it.
@@ -20,7 +20,25 @@ Process Explorer
 
 
 
+## Usage
 
+1. Remove the “System.Threading.Thread.Sleep”  in main function，the “System.Threading.Thread.Sleep” is for debugging purpose.
+
+   ​	![avatar](https://raw.githubusercontent.com/Kara-4search/tempPic/main/WindowsEventLogsBypass_Csharp_sleep.pngg)
+
+2. Run it with **administrator privilege**, for that you gonna need to bypass UAC first.(which I will update a bypass UAC project soon).
+
+3. if u need to debug or test it you need to run VS with **administrator privilege** first, open a powershell or a cmd with  **administrator privilege** and run your VS(
+
+   * for example
+
+     * cd “C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE”;
+
+     * .\devenv.exe
+
+       ![avatar](https://raw.githubusercontent.com/Kara-4search/tempPic/main/WindowsEventLogsBypass_Csharp_dev.png)
+
+       
 
 ## Reference link
 
