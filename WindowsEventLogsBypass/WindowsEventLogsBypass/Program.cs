@@ -609,7 +609,7 @@ namespace WindowsEventLogsBypass
         {
 			SetPrivilege();
 			ListProcessThreads();
-			System.Threading.Thread.Sleep(100000);
+			//System.Threading.Thread.Sleep(100000);
 
         }
     }
