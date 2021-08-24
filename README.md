@@ -41,7 +41,7 @@ Process Explorer
 ## TO-DO list
 1. Restruct code 
 
-## Update histroy
+## Update history
 - NONE
   
 
